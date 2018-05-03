@@ -4,6 +4,9 @@ NutriSafe is a tool to help people with food allergy like wheat and milk allergy
 The Demo link:
 https://youtu.be/oLdO_-gTW0s
 
+The documentation link:
+https://drive.google.com/file/d/1jK1lT_YlT6z3aMbhMRhYIaKABK9JOLmz/view?usp=sharing
+
 This repo contains:
 1) Final.php , the file that excute the python code on the server
 2) nutrisafe.py python code that get the text from image then process it
