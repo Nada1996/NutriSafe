@@ -1,6 +1,11 @@
 # NutriSafe
 NutriSafe is a tool to help people with food allergy like wheat and milk allergy, to scan the ingredients list on their food label and check if it contains any allergic ingredients according to their specific allergy.
 
+This team members:
+1) Mai Hossam https://github.com/maihossam
+2) Noura ALi  https://github.com/nouraali3
+3) Nada Salama https://github.com/Nada1996
+
 The Demo link:
 https://youtu.be/oLdO_-gTW0s
 
